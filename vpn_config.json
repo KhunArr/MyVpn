@@ -1,0 +1,24 @@
+{
+    "servers": [
+        {
+            "name": "Server 1",
+            "url": "https://raw.githubusercontent.com/username/repo/main/server1.ovpn"
+        },
+        {
+            "name": "Server 2",
+            "url": "https://raw.githubusercontent.com/username/repo/main/server2.ovpn"
+        },
+        {
+            "name": "Server 3",
+            "url": "https://raw.githubusercontent.com/username/repo/main/server3.ovpn"
+        },
+        {
+            "name": "Server 4",
+            "url": "https://raw.githubusercontent.com/username/repo/main/server4.ovpn"
+        },
+        {
+            "name": "Server 5",
+            "url": "https://raw.githubusercontent.com/username/repo/main/server5.ovpn"
+        }
+    ]
+}
